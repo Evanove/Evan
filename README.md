@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Evanove
-- 👀 I’m interested in cybersecurity 
-- 🌱 I’m currently learning ethical hacking 
+- 👋 Hi, I’m @Evane
+- 👀 I’m interested in Web Developments
+- My Evane Shope Web App comming soon !
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me anywhere
 - 😄 Pronouns: ...
