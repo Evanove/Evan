@@ -1,0 +1,8 @@
+‰PNG
+IHDR... (some valid PNG data here would be best, but even just the header might work)
+<!--
+SSRF_DEBUG_LEAK_TEST_12345: If you see this, the server is leaking non-image data!
+https://raw.githubusercontent.com/Evanove/Evan/refs/heads/main/README.md
+-->
+<?xml version="1.0" encoding="UTF-8"?><root>test</root>
+{"key": "value"}
